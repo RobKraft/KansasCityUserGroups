@@ -1,4 +1,5 @@
 #### Ideas for activities during meetings
+* The usual.  Have someone present a topic for 30 to 60 minutes, allowing for Q&A.
 * Have several people spend five or ten minutes each sharing tips and trips.  This is often called Lightning talks.
 * Help a member solve a problem.  A member presents a problem they have and asks for suggestions for resolution.
 * Share web sites, tools, and books that are good resources.
@@ -6,13 +7,16 @@
 * Have a vendor provide a demo of their product.
 * Have a member provide a review of a product.  Pros and cons.
 * Have the group volunteer their time at a civic activity helping a non-profit.
+* Create and run a trivia contest.
+* Hold a Shark Tank of Ideas.  Let members present ideas to solve problems and have them critiqued and suggestions made by others.
+* Watch a video previously recorded as a group, then discuss the content.
+* Explore and learn a new tool or product or feature as a group.
+* Use the Lean Coffee format to host an agendaless meeting: https://agilecoffee.com/leancoffee/
 * Host an online scavenger hunt.  Have people find answers to questions, or bits of trivia.
 * Performance challenge. Present a performance problem and gather suggestions for improvements.
 * 
 	
 	• Group donate
-	• Trivia
-	• Shark Tank of Ideas
 	• Q&A through apps on phones/text msgs - surveys etc - live polls
 	• Review recorded content
 	• Swag

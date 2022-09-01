@@ -29,6 +29,7 @@
 
 ### Finding Presenters
 * Ask attendees to consider presenting
+* Scour meetup and YouTube to find people who have presented in the past
 
 ### Help your presenters succeed
 * Know what hardware cables, connections, devices, etc they need for their presentation

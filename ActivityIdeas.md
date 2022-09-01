@@ -3,6 +3,10 @@
 * Have several people spend five or ten minutes each sharing tips and trips.  This is often called Lightning talks.
 * Help a member solve a problem.  A member presents a problem they have and asks for suggestions for resolution.
 * Share web sites, tools, and books that are good resources.
+* Have attendees share horror stories.
+* Create a study group for an exam related to a product or certification.
+* Create a book review group.
+* Q&A about challenges and solutions for working from home.
 * Quick One on Ones.  Have attendees pair up and learn about each other.  Only allow five minutes to ask and share.  Possibly provide specific questions.  The have everyone shift to a new pair and do the same with someone else.  Similar to speed-dating.
 * Have a vendor provide a demo of their product.
 * Have a member provide a review of a product.  Pros and cons.

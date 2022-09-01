@@ -1,10 +1,13 @@
-#### Tools and Ideas to improve the quality of your meetings
+### Tools and Ideas to improve the quality of your meetings
 
 * Have a consistent Date and Time (Every 4th Tuesday at 7pm).
 * Have a consistent location that is easily accessible for parking.
 * Provide food at the meetings.  Perhaps a sponsor will provide food and prizes.
 * Greet everyone individually and encourage interaction at the meeting.  Make small talk.
 * Have everyone provide an introduction.
+* Share recent news stories that may be related and of interest.
+* Share upcoming tech events that may be of interest.
+* Share info about upcoming product releases that may be of interest.
 * Allow the group to use the event to donate items collected to a charity.
 * Perform Survey (live polls) Q&A with the group through and SMS Q&A message service (text messages).
 * Provide SWAG (gift items) to a random attendee (or all attendees)
@@ -24,8 +27,9 @@
 * Twitter account for announcing meetings.
 * Promote on LinkedIn.
 
+### Finding Presenters
+* Ask attendees to consider presenting
 
 ### Help your presenters succeed
 * Know what hardware cables, connections, devices, etc they need for their presentation
 * Provide WiFi if needed
-* 

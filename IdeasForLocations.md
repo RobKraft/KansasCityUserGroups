@@ -17,6 +17,7 @@
 * O'Dowds (Plaza)
 * El Barrio (Red Bridge)
 * EXP/Fuel Bar (Metcalf)
+* Strang Hall (Overland Park) https://g.page/stranghall?share
 
 #Bars and Restaurants
 * Fox & Hound (Metcalf): https://goo.gl/maps/tvhvgAaRZB16chdy5

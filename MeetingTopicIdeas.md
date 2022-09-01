@@ -1,4 +1,4 @@
-#### Ideas for activities during meetings
+#### Ideas for topics/activities during meetings
 * The usual.  Have someone present a topic for 30 to 60 minutes, allowing for Q&A.
 * Have several people spend five or ten minutes each sharing tips and trips.  This is often called Lightning talks.
 * Help a member solve a problem.  A member presents a problem they have and asks for suggestions for resolution.

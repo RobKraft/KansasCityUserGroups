@@ -1,11 +1,12 @@
 Group Leaders
 * Brent Huscher
+* Matthew Crouch?
 * Terry Watts
 * Slava
 * Bill Fellows
 * Bill Graziano
 * Dan Maenle
-* Neil Watkins in May of 2007, Mark Inmon was VP
+* Neil Watkins in May of 2007, Mark Inmon was VP - through March 2009 at least
 
 Web Sites:
 * www.kcsqlserverusersgroup.com

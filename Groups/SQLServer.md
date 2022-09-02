@@ -10,3 +10,4 @@ Group Leaders
 Web Sites:
 * www.kcsqlserverusersgroup.com
 * https://web.archive.org/web/20060708132108/http://www.kcsqlserverusersgroup.com/ 
+* http://www.cleardata.biz/kcsqlsig/ 

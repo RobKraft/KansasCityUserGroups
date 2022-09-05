@@ -3,3 +3,6 @@ Resources, meeting locations, topic ideas, and more to help make your local tech
 
 # Links to all Kansas City Metro Groups
 [https://www.kansascityusergroups.com/](https://www.kansascityusergroups.com/)
+
+# Glide Phone App
+https://kansascityusergroups.glideapp.io

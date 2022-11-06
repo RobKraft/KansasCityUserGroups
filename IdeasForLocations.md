@@ -6,11 +6,15 @@
 * Rockhurst College: https://www.rockhurst.edu/
 * Centriq Training: https://centriq.com/
 * Ask your attendees if they have space where they work that could host a meeting
+* https://www.umkc.edu/accf/rooms.asp ???
+* (https://spaces.kclibrary.org/meeting-rooms
+* https://www.mymcpl.org/services/reservable-rooms)
 
 #Bars and Restaurants with private rooms
 * Hereford House
 * Lydias
 * Jack Stack BBQ
+* Minsky's near 51st and Main
 
 #Bars and Restaurants with outdoor space
 * Charlie Hoopers (Brookside)
